@@ -4,9 +4,25 @@ body {
     font-size: 16px;
     font-family: 'Times New Roman';
     background: url(../img/pattern.jpg) center center;
+    position: relative;
+
 }
 .bold-green{
     color: rgba(19, 128, 36, 0.9);
+}
+.software {
+    /* height: 100px; */
+    height: 100px;
+    position: absolute;
+    left: 450px;
+    top: 20px;
+}
+.shift{
+    /* margin-left: 20px; */
+     height: 250px;
+    /* position: absolute; */
+    /* left: 200px;  */
+    /* top: 10px; */
 }
 #cover {
     height: 100%;
